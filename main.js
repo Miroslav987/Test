@@ -94,7 +94,7 @@ function readOneUser(id) {
 
             <section class="user_One">
                 <h2>Address</h2>
-                <p>street: ${address.street}</p>
+                <p>street: ${address.suite}</p>
                 <p>suite: ${address.suit}</p>
                 <p>city: ${address.city}</p>
                 <p>zipcode: ${address.zipcode}</p>
